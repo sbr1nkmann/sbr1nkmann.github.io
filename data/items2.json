@@ -10,6 +10,10 @@
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
+            "Batteries": {
+                "type": "AA",
+                "included": true
+            },
             "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
@@ -29,6 +33,10 @@
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
+            "Batteries": {
+                "type": "AAA",
+                "included": true
+            },            
             "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/2/1.jpg",
@@ -47,10 +55,14 @@
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
+            "Batteries": {
+                "type": "AA",
+                "included": false
+            },
             "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/3/1.jpg"
-            ]
+            ]           
         },
         {
             "id": 4,
@@ -62,6 +74,9 @@
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
+            "Batteries": {
+                "type": "AAA"
+            },
             "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/4/1.jpg",
@@ -81,6 +96,9 @@
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
+            "Batteries": {
+                "type": "AA"
+            },            
             "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/5/1.jpg",
@@ -98,6 +116,10 @@
             "stock": 83,
             "brand": "Apple",
             "category": "laptops",
+            "Batteries": {
+                "type": "AAA",
+                "included": true
+            },              
             "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images": [
                 "https://i.dummyjson.com/data/products/6/1.png",
@@ -116,6 +138,10 @@
             "stock": 50,
             "brand": "Samsung",
             "category": "laptops",
+            "Batteries": {
+                "type": "AA",
+                "included": false
+            },              
             "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/7/1.jpg",

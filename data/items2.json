@@ -12,6 +12,7 @@
             "category": "smartphones",
             "Batteries": {
                 "type": "AA",
+                "number": "2",
                 "included": true
             },
             "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
@@ -35,6 +36,7 @@
             "category": "smartphones",
             "Batteries": {
                 "type": "AAA",
+                "number": "2",
                 "included": true
             },            
             "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
@@ -57,6 +59,7 @@
             "category": "smartphones",
             "Batteries": {
                 "type": "AA",
+                "number": "4",
                 "included": false
             },
             "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
@@ -75,7 +78,8 @@
             "brand": "OPPO",
             "category": "smartphones",
             "Batteries": {
-                "type": "AAA"
+                "type": "AAA",
+                "number": "3"
             },
             "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
             "images": [
@@ -97,7 +101,8 @@
             "brand": "Huawei",
             "category": "smartphones",
             "Batteries": {
-                "type": "AA"
+                "type": "AA",
+                "number": "6"
             },            
             "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
             "images": [
@@ -118,7 +123,8 @@
             "category": "laptops",
             "Batteries": {
                 "type": "AAA",
-                "included": true
+                "included": true,
+                "number": "900",
             },              
             "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
             "images": [
@@ -140,7 +146,8 @@
             "category": "laptops",
             "Batteries": {
                 "type": "AA",
-                "included": false
+                "included": false,
+                "number": "2"
             },              
             "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
             "images": [
